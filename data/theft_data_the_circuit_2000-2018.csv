@@ -1,0 +1,1141 @@
+,case_date,charges_f,charges_m,ucr,offense_type,charges_fm
+0,2000-01-01,0.0,80,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,80.0
+1,2000-01-01,269.0,1096,{'charge_slug': '54-retail-theft'},retail theft,1365.0
+2,2000-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+3,2000-01-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+4,2000-01-01,86.0,332,{'charge_slug': '58-theft-from-building'},theft from building,418.0
+5,2000-02-01,135.0,308,{'charge_slug': '58-theft-from-building'},theft from building,443.0
+6,2000-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+7,2000-02-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+8,2000-02-01,1.0,91,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,92.0
+9,2000-02-01,240.0,1042,{'charge_slug': '54-retail-theft'},retail theft,1282.0
+10,2000-03-01,261.0,1386,{'charge_slug': '54-retail-theft'},retail theft,1647.0
+11,2000-03-01,122.0,403,{'charge_slug': '58-theft-from-building'},theft from building,525.0
+12,2000-03-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+13,2000-03-01,1.0,112,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,113.0
+14,2000-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+15,2000-04-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+16,2000-04-01,111.0,308,{'charge_slug': '58-theft-from-building'},theft from building,419.0
+17,2000-04-01,0.0,83,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,83.0
+18,2000-04-01,206.0,1115,{'charge_slug': '54-retail-theft'},retail theft,1321.0
+19,2000-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+20,2000-05-01,0.0,109,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,109.0
+21,2000-05-01,118.0,329,{'charge_slug': '58-theft-from-building'},theft from building,447.0
+22,2000-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+23,2000-05-01,3.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+24,2000-05-01,220.0,1406,{'charge_slug': '54-retail-theft'},retail theft,1626.0
+25,2000-06-01,221.0,1470,{'charge_slug': '54-retail-theft'},retail theft,1691.0
+26,2000-06-01,1.0,121,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,122.0
+27,2000-06-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+28,2000-06-01,171.0,414,{'charge_slug': '58-theft-from-building'},theft from building,585.0
+29,2000-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+30,2000-07-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+31,2000-07-01,251.0,1261,{'charge_slug': '54-retail-theft'},retail theft,1512.0
+32,2000-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+33,2000-07-01,0.0,123,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,123.0
+34,2000-07-01,120.0,446,{'charge_slug': '58-theft-from-building'},theft from building,566.0
+35,2000-08-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+36,2000-08-01,0.0,138,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,138.0
+37,2000-08-01,197.0,414,{'charge_slug': '58-theft-from-building'},theft from building,611.0
+38,2000-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+39,2000-08-01,245.0,1310,{'charge_slug': '54-retail-theft'},retail theft,1555.0
+40,2000-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+41,2000-09-01,0.0,110,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,110.0
+42,2000-09-01,156.0,352,{'charge_slug': '58-theft-from-building'},theft from building,508.0
+43,2000-09-01,231.0,1139,{'charge_slug': '54-retail-theft'},retail theft,1370.0
+44,2000-09-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+45,2000-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+46,2000-10-01,150.0,392,{'charge_slug': '58-theft-from-building'},theft from building,542.0
+47,2000-10-01,1.0,109,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,110.0
+48,2000-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+49,2000-10-01,245.0,1400,{'charge_slug': '54-retail-theft'},retail theft,1645.0
+50,2000-11-01,139.0,357,{'charge_slug': '58-theft-from-building'},theft from building,496.0
+51,2000-11-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+52,2000-11-01,0.0,84,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,84.0
+53,2000-11-01,255.0,1390,{'charge_slug': '54-retail-theft'},retail theft,1645.0
+54,2000-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+55,2000-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+56,2000-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+57,2000-12-01,232.0,1445,{'charge_slug': '54-retail-theft'},retail theft,1677.0
+58,2000-12-01,120.0,302,{'charge_slug': '58-theft-from-building'},theft from building,422.0
+59,2000-12-01,0.0,67,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,67.0
+60,2001-01-01,0.0,61,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,61.0
+61,2001-01-01,118.0,389,{'charge_slug': '58-theft-from-building'},theft from building,507.0
+62,2001-01-01,249.0,1477,{'charge_slug': '54-retail-theft'},retail theft,1726.0
+63,2001-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+64,2001-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+65,2001-02-01,1.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+66,2001-02-01,3.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,76.0
+67,2001-02-01,218.0,1126,{'charge_slug': '54-retail-theft'},retail theft,1344.0
+68,2001-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+69,2001-02-01,114.0,295,{'charge_slug': '58-theft-from-building'},theft from building,409.0
+70,2001-03-01,141.0,349,{'charge_slug': '58-theft-from-building'},theft from building,490.0
+71,2001-03-01,1.0,7,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,8.0
+72,2001-03-01,265.0,1267,{'charge_slug': '54-retail-theft'},retail theft,1532.0
+73,2001-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+74,2001-03-01,1.0,83,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,84.0
+75,2001-04-01,0.0,76,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,76.0
+76,2001-04-01,219.0,1125,{'charge_slug': '54-retail-theft'},retail theft,1344.0
+77,2001-04-01,0.0,7,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,7.0
+78,2001-04-01,112.0,343,{'charge_slug': '58-theft-from-building'},theft from building,455.0
+79,2001-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+80,2001-05-01,157.0,363,{'charge_slug': '58-theft-from-building'},theft from building,520.0
+81,2001-05-01,0.0,118,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,118.0
+82,2001-05-01,0.0,7,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,7.0
+83,2001-05-01,246.0,1178,{'charge_slug': '54-retail-theft'},retail theft,1424.0
+84,2001-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+85,2001-06-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+86,2001-06-01,222.0,1238,{'charge_slug': '54-retail-theft'},retail theft,1460.0
+87,2001-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+88,2001-06-01,181.0,367,{'charge_slug': '58-theft-from-building'},theft from building,548.0
+89,2001-06-01,1.0,87,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,88.0
+90,2001-07-01,0.0,111,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,111.0
+91,2001-07-01,3.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,8.0
+92,2001-07-01,155.0,426,{'charge_slug': '58-theft-from-building'},theft from building,581.0
+93,2001-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+94,2001-07-01,254.0,1161,{'charge_slug': '54-retail-theft'},retail theft,1415.0
+95,2001-08-01,283.0,1394,{'charge_slug': '54-retail-theft'},retail theft,1677.0
+96,2001-08-01,0.0,114,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,114.0
+97,2001-08-01,1.0,10,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,11.0
+98,2001-08-01,161.0,438,{'charge_slug': '58-theft-from-building'},theft from building,599.0
+99,2001-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+100,2001-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+101,2001-09-01,149.0,339,{'charge_slug': '58-theft-from-building'},theft from building,488.0
+102,2001-09-01,1.0,10,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,11.0
+103,2001-09-01,2.0,79,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,81.0
+104,2001-09-01,218.0,1150,{'charge_slug': '54-retail-theft'},retail theft,1368.0
+105,2001-10-01,295.0,1567,{'charge_slug': '54-retail-theft'},retail theft,1862.0
+106,2001-10-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+107,2001-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+108,2001-10-01,1.0,132,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,133.0
+109,2001-10-01,153.0,415,{'charge_slug': '58-theft-from-building'},theft from building,568.0
+110,2001-11-01,334.0,1184,{'charge_slug': '54-retail-theft'},retail theft,1518.0
+111,2001-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+112,2001-11-01,1.0,120,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,121.0
+113,2001-11-01,168.0,285,{'charge_slug': '58-theft-from-building'},theft from building,453.0
+114,2001-11-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+115,2001-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+116,2001-12-01,128.0,358,{'charge_slug': '58-theft-from-building'},theft from building,486.0
+117,2001-12-01,0.0,85,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,85.0
+118,2001-12-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+119,2001-12-01,357.0,1191,{'charge_slug': '54-retail-theft'},retail theft,1548.0
+120,2002-01-01,1.0,109,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,110.0
+121,2002-01-01,388.0,1347,{'charge_slug': '54-retail-theft'},retail theft,1735.0
+122,2002-01-01,143.0,330,{'charge_slug': '58-theft-from-building'},theft from building,473.0
+123,2002-01-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+124,2002-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+125,2002-02-01,311.0,976,{'charge_slug': '54-retail-theft'},retail theft,1287.0
+126,2002-02-01,0.0,97,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,97.0
+127,2002-02-01,114.0,256,{'charge_slug': '58-theft-from-building'},theft from building,370.0
+128,2002-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+129,2002-02-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+130,2002-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+131,2002-03-01,1.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,6.0
+132,2002-03-01,302.0,1159,{'charge_slug': '54-retail-theft'},retail theft,1461.0
+133,2002-03-01,127.0,329,{'charge_slug': '58-theft-from-building'},theft from building,456.0
+134,2002-03-01,1.0,104,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,105.0
+135,2002-04-01,325.0,1124,{'charge_slug': '54-retail-theft'},retail theft,1449.0
+136,2002-04-01,2.0,6,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,8.0
+137,2002-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+138,2002-04-01,0.0,108,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,108.0
+139,2002-04-01,141.0,325,{'charge_slug': '58-theft-from-building'},theft from building,466.0
+140,2002-05-01,124.0,298,{'charge_slug': '58-theft-from-building'},theft from building,422.0
+141,2002-05-01,1.0,77,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,78.0
+142,2002-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+143,2002-05-01,0.0,6,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,6.0
+144,2002-05-01,335.0,1133,{'charge_slug': '54-retail-theft'},retail theft,1468.0
+145,2002-06-01,1.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+146,2002-06-01,152.0,368,{'charge_slug': '58-theft-from-building'},theft from building,520.0
+147,2002-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+148,2002-06-01,0.0,107,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,107.0
+149,2002-06-01,306.0,1035,{'charge_slug': '54-retail-theft'},retail theft,1341.0
+150,2002-07-01,316.0,1077,{'charge_slug': '54-retail-theft'},retail theft,1393.0
+151,2002-07-01,3.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+152,2002-07-01,122.0,352,{'charge_slug': '58-theft-from-building'},theft from building,474.0
+153,2002-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+154,2002-07-01,0.0,93,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,93.0
+155,2002-08-01,0.0,6,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,6.0
+156,2002-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+157,2002-08-01,137.0,384,{'charge_slug': '58-theft-from-building'},theft from building,521.0
+158,2002-08-01,1.0,102,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,103.0
+159,2002-08-01,324.0,1057,{'charge_slug': '54-retail-theft'},retail theft,1381.0
+160,2002-09-01,0.0,98,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,98.0
+161,2002-09-01,1.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+162,2002-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+163,2002-09-01,281.0,981,{'charge_slug': '54-retail-theft'},retail theft,1262.0
+164,2002-09-01,106.0,327,{'charge_slug': '58-theft-from-building'},theft from building,433.0
+165,2002-10-01,135.0,371,{'charge_slug': '58-theft-from-building'},theft from building,506.0
+166,2002-10-01,0.0,103,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,103.0
+167,2002-10-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+168,2002-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+169,2002-10-01,363.0,1146,{'charge_slug': '54-retail-theft'},retail theft,1509.0
+170,2002-11-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+171,2002-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+172,2002-11-01,253.0,890,{'charge_slug': '54-retail-theft'},retail theft,1143.0
+173,2002-11-01,0.0,63,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,63.0
+174,2002-11-01,73.0,289,{'charge_slug': '58-theft-from-building'},theft from building,362.0
+175,2002-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+176,2002-12-01,367.0,1233,{'charge_slug': '54-retail-theft'},retail theft,1600.0
+177,2002-12-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+178,2002-12-01,0.0,87,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,87.0
+179,2002-12-01,129.0,317,{'charge_slug': '58-theft-from-building'},theft from building,446.0
+180,2003-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+181,2003-01-01,1.0,59,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,60.0
+182,2003-01-01,97.0,307,{'charge_slug': '58-theft-from-building'},theft from building,404.0
+183,2003-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+184,2003-01-01,317.0,1054,{'charge_slug': '54-retail-theft'},retail theft,1371.0
+185,2003-02-01,261.0,952,{'charge_slug': '54-retail-theft'},retail theft,1213.0
+186,2003-02-01,1.0,85,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,86.0
+187,2003-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+188,2003-02-01,94.0,262,{'charge_slug': '58-theft-from-building'},theft from building,356.0
+189,2003-02-01,1.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+190,2003-03-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+191,2003-03-01,285.0,973,{'charge_slug': '54-retail-theft'},retail theft,1258.0
+192,2003-03-01,1.0,67,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,68.0
+193,2003-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+194,2003-03-01,85.0,269,{'charge_slug': '58-theft-from-building'},theft from building,354.0
+195,2003-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+196,2003-04-01,82.0,336,{'charge_slug': '58-theft-from-building'},theft from building,418.0
+197,2003-04-01,307.0,1067,{'charge_slug': '54-retail-theft'},retail theft,1374.0
+198,2003-04-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+199,2003-04-01,0.0,81,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,81.0
+200,2003-05-01,98.0,318,{'charge_slug': '58-theft-from-building'},theft from building,416.0
+201,2003-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+202,2003-05-01,0.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,73.0
+203,2003-05-01,291.0,1043,{'charge_slug': '54-retail-theft'},retail theft,1334.0
+204,2003-05-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+205,2003-06-01,0.0,87,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,87.0
+206,2003-06-01,297.0,921,{'charge_slug': '54-retail-theft'},retail theft,1218.0
+207,2003-06-01,90.0,348,{'charge_slug': '58-theft-from-building'},theft from building,438.0
+208,2003-06-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+209,2003-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+210,2003-07-01,0.0,87,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,87.0
+211,2003-07-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+212,2003-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+213,2003-07-01,285.0,981,{'charge_slug': '54-retail-theft'},retail theft,1266.0
+214,2003-07-01,95.0,386,{'charge_slug': '58-theft-from-building'},theft from building,481.0
+215,2003-08-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+216,2003-08-01,307.0,911,{'charge_slug': '54-retail-theft'},retail theft,1218.0
+217,2003-08-01,1.0,101,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,102.0
+218,2003-08-01,94.0,377,{'charge_slug': '58-theft-from-building'},theft from building,471.0
+219,2003-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+220,2003-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+221,2003-09-01,101.0,388,{'charge_slug': '58-theft-from-building'},theft from building,489.0
+222,2003-09-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+223,2003-09-01,0.0,95,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,95.0
+224,2003-09-01,289.0,1002,{'charge_slug': '54-retail-theft'},retail theft,1291.0
+225,2003-10-01,301.0,1115,{'charge_slug': '54-retail-theft'},retail theft,1416.0
+226,2003-10-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+227,2003-10-01,121.0,338,{'charge_slug': '58-theft-from-building'},theft from building,459.0
+228,2003-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+229,2003-10-01,0.0,103,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,103.0
+230,2003-11-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+231,2003-11-01,280.0,827,{'charge_slug': '54-retail-theft'},retail theft,1107.0
+232,2003-11-01,0.0,69,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,69.0
+233,2003-11-01,107.0,338,{'charge_slug': '58-theft-from-building'},theft from building,445.0
+234,2003-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+235,2003-12-01,1.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+236,2003-12-01,93.0,331,{'charge_slug': '58-theft-from-building'},theft from building,424.0
+237,2003-12-01,0.0,94,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,94.0
+238,2003-12-01,305.0,1172,{'charge_slug': '54-retail-theft'},retail theft,1477.0
+239,2003-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+240,2004-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+241,2004-01-01,83.0,321,{'charge_slug': '58-theft-from-building'},theft from building,404.0
+242,2004-01-01,325.0,990,{'charge_slug': '54-retail-theft'},retail theft,1315.0
+243,2004-01-01,2.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+244,2004-01-01,0.0,80,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,80.0
+245,2004-02-01,93.0,262,{'charge_slug': '58-theft-from-building'},theft from building,355.0
+246,2004-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+247,2004-02-01,264.0,737,{'charge_slug': '54-retail-theft'},retail theft,1001.0
+248,2004-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+249,2004-02-01,0.0,63,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,63.0
+250,2004-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+251,2004-03-01,274.0,1039,{'charge_slug': '54-retail-theft'},retail theft,1313.0
+252,2004-03-01,0.0,57,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,57.0
+253,2004-03-01,126.0,311,{'charge_slug': '58-theft-from-building'},theft from building,437.0
+254,2004-03-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+255,2004-04-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+256,2004-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+257,2004-04-01,300.0,1005,{'charge_slug': '54-retail-theft'},retail theft,1305.0
+258,2004-04-01,0.0,66,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,66.0
+259,2004-04-01,86.0,328,{'charge_slug': '58-theft-from-building'},theft from building,414.0
+260,2004-05-01,1.0,67,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,68.0
+261,2004-05-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+262,2004-05-01,80.0,296,{'charge_slug': '58-theft-from-building'},theft from building,376.0
+263,2004-05-01,230.0,870,{'charge_slug': '54-retail-theft'},retail theft,1100.0
+264,2004-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+265,2004-06-01,1.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+266,2004-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+267,2004-06-01,0.0,68,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,68.0
+268,2004-06-01,259.0,995,{'charge_slug': '54-retail-theft'},retail theft,1254.0
+269,2004-06-01,120.0,385,{'charge_slug': '58-theft-from-building'},theft from building,505.0
+270,2004-07-01,90.0,387,{'charge_slug': '58-theft-from-building'},theft from building,477.0
+271,2004-07-01,269.0,913,{'charge_slug': '54-retail-theft'},retail theft,1182.0
+272,2004-07-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+273,2004-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+274,2004-07-01,0.0,92,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,92.0
+275,2004-08-01,0.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,73.0
+276,2004-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+277,2004-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+278,2004-08-01,130.0,402,{'charge_slug': '58-theft-from-building'},theft from building,532.0
+279,2004-08-01,267.0,940,{'charge_slug': '54-retail-theft'},retail theft,1207.0
+280,2004-09-01,270.0,895,{'charge_slug': '54-retail-theft'},retail theft,1165.0
+281,2004-09-01,0.0,81,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,81.0
+282,2004-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+283,2004-09-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+284,2004-09-01,112.0,396,{'charge_slug': '58-theft-from-building'},theft from building,508.0
+285,2004-10-01,264.0,934,{'charge_slug': '54-retail-theft'},retail theft,1198.0
+286,2004-10-01,0.0,89,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,89.0
+287,2004-10-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+288,2004-10-01,128.0,311,{'charge_slug': '58-theft-from-building'},theft from building,439.0
+289,2004-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+290,2004-11-01,1.0,66,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,67.0
+291,2004-11-01,252.0,835,{'charge_slug': '54-retail-theft'},retail theft,1087.0
+292,2004-11-01,82.0,281,{'charge_slug': '58-theft-from-building'},theft from building,363.0
+293,2004-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+294,2004-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+295,2004-12-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+296,2004-12-01,270.0,978,{'charge_slug': '54-retail-theft'},retail theft,1248.0
+297,2004-12-01,1.0,77,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,78.0
+298,2004-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+299,2004-12-01,126.0,357,{'charge_slug': '58-theft-from-building'},theft from building,483.0
+300,2005-01-01,0.0,50,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,50.0
+301,2005-01-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+302,2005-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+303,2005-01-01,72.0,297,{'charge_slug': '58-theft-from-building'},theft from building,369.0
+304,2005-01-01,286.0,871,{'charge_slug': '54-retail-theft'},retail theft,1157.0
+305,2005-02-01,206.0,710,{'charge_slug': '54-retail-theft'},retail theft,916.0
+306,2005-02-01,0.0,49,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,49.0
+307,2005-02-01,98.0,244,{'charge_slug': '58-theft-from-building'},theft from building,342.0
+308,2005-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+309,2005-02-01,1.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+310,2005-03-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+311,2005-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+312,2005-03-01,224.0,896,{'charge_slug': '54-retail-theft'},retail theft,1120.0
+313,2005-03-01,127.0,320,{'charge_slug': '58-theft-from-building'},theft from building,447.0
+314,2005-03-01,0.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,73.0
+315,2005-04-01,1.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+316,2005-04-01,0.0,60,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,60.0
+317,2005-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+318,2005-04-01,218.0,951,{'charge_slug': '54-retail-theft'},retail theft,1169.0
+319,2005-04-01,103.0,314,{'charge_slug': '58-theft-from-building'},theft from building,417.0
+320,2005-05-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+321,2005-05-01,0.0,58,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,58.0
+322,2005-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+323,2005-05-01,100.0,343,{'charge_slug': '58-theft-from-building'},theft from building,443.0
+324,2005-05-01,245.0,702,{'charge_slug': '54-retail-theft'},retail theft,947.0
+325,2005-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+326,2005-06-01,1.0,87,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,88.0
+327,2005-06-01,107.0,373,{'charge_slug': '58-theft-from-building'},theft from building,480.0
+328,2005-06-01,258.0,986,{'charge_slug': '54-retail-theft'},retail theft,1244.0
+329,2005-06-01,0.0,6,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,6.0
+330,2005-07-01,90.0,341,{'charge_slug': '58-theft-from-building'},theft from building,431.0
+331,2005-07-01,192.0,798,{'charge_slug': '54-retail-theft'},retail theft,990.0
+332,2005-07-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+333,2005-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+334,2005-07-01,0.0,100,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,100.0
+335,2005-08-01,244.0,910,{'charge_slug': '54-retail-theft'},retail theft,1154.0
+336,2005-08-01,110.0,383,{'charge_slug': '58-theft-from-building'},theft from building,493.0
+337,2005-08-01,2.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,6.0
+338,2005-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+339,2005-08-01,1.0,93,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,94.0
+340,2005-09-01,145.0,393,{'charge_slug': '58-theft-from-building'},theft from building,538.0
+341,2005-09-01,208.0,918,{'charge_slug': '54-retail-theft'},retail theft,1126.0
+342,2005-09-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+343,2005-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+344,2005-09-01,1.0,119,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,120.0
+345,2005-10-01,0.0,79,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,79.0
+346,2005-10-01,81.0,309,{'charge_slug': '58-theft-from-building'},theft from building,390.0
+347,2005-10-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+348,2005-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+349,2005-10-01,212.0,796,{'charge_slug': '54-retail-theft'},retail theft,1008.0
+350,2005-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+351,2005-11-01,141.0,314,{'charge_slug': '58-theft-from-building'},theft from building,455.0
+352,2005-11-01,2.0,13,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,15.0
+353,2005-11-01,243.0,913,{'charge_slug': '54-retail-theft'},retail theft,1156.0
+354,2005-11-01,0.0,75,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,75.0
+355,2005-12-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+356,2005-12-01,102.0,299,{'charge_slug': '58-theft-from-building'},theft from building,401.0
+357,2005-12-01,2.0,64,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,66.0
+358,2005-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+359,2005-12-01,271.0,955,{'charge_slug': '54-retail-theft'},retail theft,1226.0
+360,2006-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+361,2006-01-01,80.0,302,{'charge_slug': '58-theft-from-building'},theft from building,382.0
+362,2006-01-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+363,2006-01-01,274.0,876,{'charge_slug': '54-retail-theft'},retail theft,1150.0
+364,2006-01-01,0.0,71,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,71.0
+365,2006-02-01,0.0,7,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,7.0
+366,2006-02-01,186.0,695,{'charge_slug': '54-retail-theft'},retail theft,881.0
+367,2006-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+368,2006-02-01,0.0,46,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,46.0
+369,2006-02-01,80.0,299,{'charge_slug': '58-theft-from-building'},theft from building,379.0
+370,2006-03-01,0.0,47,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,47.0
+371,2006-03-01,107.0,329,{'charge_slug': '58-theft-from-building'},theft from building,436.0
+372,2006-03-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+373,2006-03-01,211.0,871,{'charge_slug': '54-retail-theft'},retail theft,1082.0
+374,2006-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+375,2006-04-01,183.0,659,{'charge_slug': '54-retail-theft'},retail theft,842.0
+376,2006-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+377,2006-04-01,76.0,278,{'charge_slug': '58-theft-from-building'},theft from building,354.0
+378,2006-04-01,0.0,56,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,56.0
+379,2006-04-01,1.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+380,2006-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+381,2006-05-01,1.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+382,2006-05-01,196.0,764,{'charge_slug': '54-retail-theft'},retail theft,960.0
+383,2006-05-01,82.0,347,{'charge_slug': '58-theft-from-building'},theft from building,429.0
+384,2006-05-01,0.0,71,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,71.0
+385,2006-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+386,2006-06-01,106.0,370,{'charge_slug': '58-theft-from-building'},theft from building,476.0
+387,2006-06-01,0.0,57,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,57.0
+388,2006-06-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+389,2006-06-01,198.0,726,{'charge_slug': '54-retail-theft'},retail theft,924.0
+390,2006-07-01,1.0,68,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,69.0
+391,2006-07-01,110.0,360,{'charge_slug': '58-theft-from-building'},theft from building,470.0
+392,2006-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+393,2006-07-01,173.0,663,{'charge_slug': '54-retail-theft'},retail theft,836.0
+394,2006-07-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+395,2006-08-01,221.0,834,{'charge_slug': '54-retail-theft'},retail theft,1055.0
+396,2006-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+397,2006-08-01,0.0,75,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,75.0
+398,2006-08-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+399,2006-08-01,120.0,454,{'charge_slug': '58-theft-from-building'},theft from building,574.0
+400,2006-09-01,100.0,325,{'charge_slug': '58-theft-from-building'},theft from building,425.0
+401,2006-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+402,2006-09-01,177.0,739,{'charge_slug': '54-retail-theft'},retail theft,916.0
+403,2006-09-01,0.0,75,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,75.0
+404,2006-09-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+405,2006-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+406,2006-10-01,226.0,809,{'charge_slug': '54-retail-theft'},retail theft,1035.0
+407,2006-10-01,93.0,323,{'charge_slug': '58-theft-from-building'},theft from building,416.0
+408,2006-10-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+409,2006-10-01,0.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,73.0
+410,2006-11-01,0.0,71,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,71.0
+411,2006-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+412,2006-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+413,2006-11-01,200.0,729,{'charge_slug': '54-retail-theft'},retail theft,929.0
+414,2006-11-01,75.0,322,{'charge_slug': '58-theft-from-building'},theft from building,397.0
+415,2006-12-01,106.0,342,{'charge_slug': '58-theft-from-building'},theft from building,448.0
+416,2006-12-01,0.0,67,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,67.0
+417,2006-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+418,2006-12-01,228.0,905,{'charge_slug': '54-retail-theft'},retail theft,1133.0
+419,2006-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+420,2007-01-01,245.0,843,{'charge_slug': '54-retail-theft'},retail theft,1088.0
+421,2007-01-01,0.0,76,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,76.0
+422,2007-01-01,111.0,366,{'charge_slug': '58-theft-from-building'},theft from building,477.0
+423,2007-01-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+424,2007-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+425,2007-02-01,0.0,52,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,52.0
+426,2007-02-01,3.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+427,2007-02-01,148.0,576,{'charge_slug': '54-retail-theft'},retail theft,724.0
+428,2007-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+429,2007-02-01,74.0,222,{'charge_slug': '58-theft-from-building'},theft from building,296.0
+430,2007-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+431,2007-03-01,211.0,792,{'charge_slug': '54-retail-theft'},retail theft,1003.0
+432,2007-03-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+433,2007-03-01,0.0,77,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,77.0
+434,2007-03-01,119.0,289,{'charge_slug': '58-theft-from-building'},theft from building,408.0
+435,2007-04-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+436,2007-04-01,183.0,746,{'charge_slug': '54-retail-theft'},retail theft,929.0
+437,2007-04-01,66.0,312,{'charge_slug': '58-theft-from-building'},theft from building,378.0
+438,2007-04-01,0.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,73.0
+439,2007-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+440,2007-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+441,2007-05-01,88.0,371,{'charge_slug': '58-theft-from-building'},theft from building,459.0
+442,2007-05-01,0.0,79,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,79.0
+443,2007-05-01,209.0,804,{'charge_slug': '54-retail-theft'},retail theft,1013.0
+444,2007-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+445,2007-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+446,2007-06-01,85.0,333,{'charge_slug': '58-theft-from-building'},theft from building,418.0
+447,2007-06-01,0.0,60,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,60.0
+448,2007-06-01,232.0,789,{'charge_slug': '54-retail-theft'},retail theft,1021.0
+449,2007-06-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+450,2007-07-01,203.0,809,{'charge_slug': '54-retail-theft'},retail theft,1012.0
+451,2007-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+452,2007-07-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+453,2007-07-01,0.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,73.0
+454,2007-07-01,98.0,383,{'charge_slug': '58-theft-from-building'},theft from building,481.0
+455,2007-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+456,2007-08-01,217.0,736,{'charge_slug': '54-retail-theft'},retail theft,953.0
+457,2007-08-01,106.0,384,{'charge_slug': '58-theft-from-building'},theft from building,490.0
+458,2007-08-01,0.0,98,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,98.0
+459,2007-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+460,2007-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+461,2007-09-01,0.0,5,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,5.0
+462,2007-09-01,0.0,80,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,80.0
+463,2007-09-01,89.0,351,{'charge_slug': '58-theft-from-building'},theft from building,440.0
+464,2007-09-01,190.0,709,{'charge_slug': '54-retail-theft'},retail theft,899.0
+465,2007-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+466,2007-10-01,0.0,88,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,88.0
+467,2007-10-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+468,2007-10-01,120.0,373,{'charge_slug': '58-theft-from-building'},theft from building,493.0
+469,2007-10-01,229.0,886,{'charge_slug': '54-retail-theft'},retail theft,1115.0
+470,2007-11-01,0.0,72,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,72.0
+471,2007-11-01,85.0,253,{'charge_slug': '58-theft-from-building'},theft from building,338.0
+472,2007-11-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+473,2007-11-01,204.0,778,{'charge_slug': '54-retail-theft'},retail theft,982.0
+474,2007-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+475,2007-12-01,0.0,59,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,59.0
+476,2007-12-01,89.0,310,{'charge_slug': '58-theft-from-building'},theft from building,399.0
+477,2007-12-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+478,2007-12-01,211.0,917,{'charge_slug': '54-retail-theft'},retail theft,1128.0
+479,2007-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+480,2008-01-01,1.0,54,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,55.0
+481,2008-01-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+482,2008-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+483,2008-01-01,95.0,370,{'charge_slug': '58-theft-from-building'},theft from building,465.0
+484,2008-01-01,241.0,873,{'charge_slug': '54-retail-theft'},retail theft,1114.0
+485,2008-02-01,200.0,732,{'charge_slug': '54-retail-theft'},retail theft,932.0
+486,2008-02-01,0.0,41,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,41.0
+487,2008-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+488,2008-02-01,92.0,221,{'charge_slug': '58-theft-from-building'},theft from building,313.0
+489,2008-02-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+490,2008-03-01,0.0,43,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,43.0
+491,2008-03-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+492,2008-03-01,75.0,272,{'charge_slug': '58-theft-from-building'},theft from building,347.0
+493,2008-03-01,194.0,763,{'charge_slug': '54-retail-theft'},retail theft,957.0
+494,2008-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+495,2008-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+496,2008-04-01,123.0,356,{'charge_slug': '58-theft-from-building'},theft from building,479.0
+497,2008-04-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+498,2008-04-01,252.0,905,{'charge_slug': '54-retail-theft'},retail theft,1157.0
+499,2008-04-01,0.0,76,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,76.0
+500,2008-05-01,254.0,794,{'charge_slug': '54-retail-theft'},retail theft,1048.0
+501,2008-05-01,0.0,67,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,67.0
+502,2008-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+503,2008-05-01,105.0,313,{'charge_slug': '58-theft-from-building'},theft from building,418.0
+504,2008-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+505,2008-06-01,218.0,843,{'charge_slug': '54-retail-theft'},retail theft,1061.0
+506,2008-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+507,2008-06-01,0.0,77,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,77.0
+508,2008-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+509,2008-06-01,76.0,312,{'charge_slug': '58-theft-from-building'},theft from building,388.0
+510,2008-07-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+511,2008-07-01,75.0,402,{'charge_slug': '58-theft-from-building'},theft from building,477.0
+512,2008-07-01,0.0,63,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,63.0
+513,2008-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+514,2008-07-01,243.0,821,{'charge_slug': '54-retail-theft'},retail theft,1064.0
+515,2008-08-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+516,2008-08-01,0.0,75,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,75.0
+517,2008-08-01,83.0,400,{'charge_slug': '58-theft-from-building'},theft from building,483.0
+518,2008-08-01,260.0,938,{'charge_slug': '54-retail-theft'},retail theft,1198.0
+519,2008-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+520,2008-09-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+521,2008-09-01,231.0,855,{'charge_slug': '54-retail-theft'},retail theft,1086.0
+522,2008-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+523,2008-09-01,0.0,74,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,74.0
+524,2008-09-01,94.0,336,{'charge_slug': '58-theft-from-building'},theft from building,430.0
+525,2008-10-01,115.0,378,{'charge_slug': '58-theft-from-building'},theft from building,493.0
+526,2008-10-01,0.0,90,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,90.0
+527,2008-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+528,2008-10-01,236.0,998,{'charge_slug': '54-retail-theft'},retail theft,1234.0
+529,2008-10-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+530,2008-11-01,0.0,46,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,46.0
+531,2008-11-01,86.0,235,{'charge_slug': '58-theft-from-building'},theft from building,321.0
+532,2008-11-01,201.0,813,{'charge_slug': '54-retail-theft'},retail theft,1014.0
+533,2008-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+534,2008-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+535,2008-12-01,269.0,970,{'charge_slug': '54-retail-theft'},retail theft,1239.0
+536,2008-12-01,79.0,295,{'charge_slug': '58-theft-from-building'},theft from building,374.0
+537,2008-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+538,2008-12-01,0.0,44,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,44.0
+539,2008-12-01,1.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+540,2009-01-01,241.0,823,{'charge_slug': '54-retail-theft'},retail theft,1064.0
+541,2009-01-01,86.0,247,{'charge_slug': '58-theft-from-building'},theft from building,333.0
+542,2009-01-01,0.0,49,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,49.0
+543,2009-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+544,2009-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+545,2009-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+546,2009-02-01,216.0,639,{'charge_slug': '54-retail-theft'},retail theft,855.0
+547,2009-02-01,59.0,239,{'charge_slug': '58-theft-from-building'},theft from building,298.0
+548,2009-02-01,0.0,47,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,47.0
+549,2009-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+550,2009-03-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+551,2009-03-01,0.0,40,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,40.0
+552,2009-03-01,80.0,259,{'charge_slug': '58-theft-from-building'},theft from building,339.0
+553,2009-03-01,209.0,807,{'charge_slug': '54-retail-theft'},retail theft,1016.0
+554,2009-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+555,2009-04-01,2.0,18,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,20.0
+556,2009-04-01,82.0,252,{'charge_slug': '58-theft-from-building'},theft from building,334.0
+557,2009-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+558,2009-04-01,228.0,869,{'charge_slug': '54-retail-theft'},retail theft,1097.0
+559,2009-04-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+560,2009-05-01,0.0,37,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,37.0
+561,2009-05-01,206.0,790,{'charge_slug': '54-retail-theft'},retail theft,996.0
+562,2009-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+563,2009-05-01,83.0,260,{'charge_slug': '58-theft-from-building'},theft from building,343.0
+564,2009-05-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+565,2009-06-01,249.0,905,{'charge_slug': '54-retail-theft'},retail theft,1154.0
+566,2009-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+567,2009-06-01,2.0,47,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,49.0
+568,2009-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+569,2009-06-01,70.0,281,{'charge_slug': '58-theft-from-building'},theft from building,351.0
+570,2009-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+571,2009-07-01,0.0,73,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,73.0
+572,2009-07-01,245.0,929,{'charge_slug': '54-retail-theft'},retail theft,1174.0
+573,2009-07-01,69.0,317,{'charge_slug': '58-theft-from-building'},theft from building,386.0
+574,2009-07-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+575,2009-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+576,2009-08-01,79.0,281,{'charge_slug': '58-theft-from-building'},theft from building,360.0
+577,2009-08-01,277.0,839,{'charge_slug': '54-retail-theft'},retail theft,1116.0
+578,2009-08-01,0.0,54,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,54.0
+579,2009-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+580,2009-09-01,0.0,61,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,61.0
+581,2009-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+582,2009-09-01,257.0,812,{'charge_slug': '54-retail-theft'},retail theft,1069.0
+583,2009-09-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+584,2009-09-01,83.0,331,{'charge_slug': '58-theft-from-building'},theft from building,414.0
+585,2009-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+586,2009-10-01,0.0,53,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,53.0
+587,2009-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+588,2009-10-01,70.0,274,{'charge_slug': '58-theft-from-building'},theft from building,344.0
+589,2009-10-01,289.0,868,{'charge_slug': '54-retail-theft'},retail theft,1157.0
+590,2009-11-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+591,2009-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+592,2009-11-01,0.0,62,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,62.0
+593,2009-11-01,85.0,218,{'charge_slug': '58-theft-from-building'},theft from building,303.0
+594,2009-11-01,263.0,754,{'charge_slug': '54-retail-theft'},retail theft,1017.0
+595,2009-12-01,99.0,293,{'charge_slug': '58-theft-from-building'},theft from building,392.0
+596,2009-12-01,293.0,1135,{'charge_slug': '54-retail-theft'},retail theft,1428.0
+597,2009-12-01,1.0,57,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,58.0
+598,2009-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+599,2009-12-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+600,2010-01-01,0.0,34,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,34.0
+601,2010-01-01,64.0,250,{'charge_slug': '58-theft-from-building'},theft from building,314.0
+602,2010-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+603,2010-01-01,2.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+604,2010-01-01,244.0,661,{'charge_slug': '54-retail-theft'},retail theft,905.0
+605,2010-02-01,0.0,42,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,42.0
+606,2010-02-01,219.0,581,{'charge_slug': '54-retail-theft'},retail theft,800.0
+607,2010-02-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+608,2010-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+609,2010-02-01,76.0,175,{'charge_slug': '58-theft-from-building'},theft from building,251.0
+610,2010-03-01,0.0,51,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,51.0
+611,2010-03-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+612,2010-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+613,2010-03-01,286.0,688,{'charge_slug': '54-retail-theft'},retail theft,974.0
+614,2010-03-01,104.0,222,{'charge_slug': '58-theft-from-building'},theft from building,326.0
+615,2010-04-01,214.0,724,{'charge_slug': '54-retail-theft'},retail theft,938.0
+616,2010-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+617,2010-04-01,0.0,45,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,45.0
+618,2010-04-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+619,2010-04-01,73.0,227,{'charge_slug': '58-theft-from-building'},theft from building,300.0
+620,2010-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+621,2010-05-01,67.0,224,{'charge_slug': '58-theft-from-building'},theft from building,291.0
+622,2010-05-01,235.0,654,{'charge_slug': '54-retail-theft'},retail theft,889.0
+623,2010-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+624,2010-05-01,0.0,59,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,59.0
+625,2010-06-01,96.0,267,{'charge_slug': '58-theft-from-building'},theft from building,363.0
+626,2010-06-01,0.0,82,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,82.0
+627,2010-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+628,2010-06-01,247.0,710,{'charge_slug': '54-retail-theft'},retail theft,957.0
+629,2010-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+630,2010-07-01,0.0,66,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,66.0
+631,2010-07-01,116.0,276,{'charge_slug': '58-theft-from-building'},theft from building,392.0
+632,2010-07-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+633,2010-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+634,2010-07-01,177.0,678,{'charge_slug': '54-retail-theft'},retail theft,855.0
+635,2010-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+636,2010-08-01,59.0,239,{'charge_slug': '58-theft-from-building'},theft from building,298.0
+637,2010-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+638,2010-08-01,200.0,621,{'charge_slug': '54-retail-theft'},retail theft,821.0
+639,2010-08-01,0.0,58,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,58.0
+640,2010-09-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+641,2010-09-01,0.0,71,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,71.0
+642,2010-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+643,2010-09-01,205.0,660,{'charge_slug': '54-retail-theft'},retail theft,865.0
+644,2010-09-01,75.0,243,{'charge_slug': '58-theft-from-building'},theft from building,318.0
+645,2010-10-01,216.0,558,{'charge_slug': '54-retail-theft'},retail theft,774.0
+646,2010-10-01,2.0,51,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,53.0
+647,2010-10-01,87.0,195,{'charge_slug': '58-theft-from-building'},theft from building,282.0
+648,2010-10-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+649,2010-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+650,2010-11-01,156.0,599,{'charge_slug': '54-retail-theft'},retail theft,755.0
+651,2010-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+652,2010-11-01,55.0,206,{'charge_slug': '58-theft-from-building'},theft from building,261.0
+653,2010-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+654,2010-11-01,0.0,51,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,51.0
+655,2010-12-01,74.0,194,{'charge_slug': '58-theft-from-building'},theft from building,268.0
+656,2010-12-01,195.0,699,{'charge_slug': '54-retail-theft'},retail theft,894.0
+657,2010-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+658,2010-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+659,2010-12-01,0.0,39,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,39.0
+660,2011-01-01,0.0,37,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,37.0
+661,2011-01-01,158.0,618,{'charge_slug': '54-retail-theft'},retail theft,776.0
+662,2011-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+663,2011-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+664,2011-01-01,56.0,194,{'charge_slug': '58-theft-from-building'},theft from building,250.0
+665,2011-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+666,2011-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+667,2011-02-01,63.0,147,{'charge_slug': '58-theft-from-building'},theft from building,210.0
+668,2011-02-01,0.0,31,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,31.0
+669,2011-02-01,129.0,441,{'charge_slug': '54-retail-theft'},retail theft,570.0
+670,2011-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+671,2011-03-01,0.0,37,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,37.0
+672,2011-03-01,0.0,4,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,4.0
+673,2011-03-01,153.0,604,{'charge_slug': '54-retail-theft'},retail theft,757.0
+674,2011-03-01,74.0,220,{'charge_slug': '58-theft-from-building'},theft from building,294.0
+675,2011-04-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+676,2011-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+677,2011-04-01,49.0,186,{'charge_slug': '58-theft-from-building'},theft from building,235.0
+678,2011-04-01,0.0,47,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,47.0
+679,2011-04-01,179.0,559,{'charge_slug': '54-retail-theft'},retail theft,738.0
+680,2011-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+681,2011-05-01,0.0,68,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,68.0
+682,2011-05-01,72.0,268,{'charge_slug': '58-theft-from-building'},theft from building,340.0
+683,2011-05-01,179.0,619,{'charge_slug': '54-retail-theft'},retail theft,798.0
+684,2011-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+685,2011-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+686,2011-06-01,86.0,277,{'charge_slug': '58-theft-from-building'},theft from building,363.0
+687,2011-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+688,2011-06-01,0.0,61,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,61.0
+689,2011-06-01,199.0,768,{'charge_slug': '54-retail-theft'},retail theft,967.0
+690,2011-07-01,168.0,649,{'charge_slug': '54-retail-theft'},retail theft,817.0
+691,2011-07-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+692,2011-07-01,68.0,226,{'charge_slug': '58-theft-from-building'},theft from building,294.0
+693,2011-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+694,2011-07-01,0.0,58,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,58.0
+695,2011-08-01,226.0,680,{'charge_slug': '54-retail-theft'},retail theft,906.0
+696,2011-08-01,0.0,86,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,86.0
+697,2011-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+698,2011-08-01,96.0,316,{'charge_slug': '58-theft-from-building'},theft from building,412.0
+699,2011-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+700,2011-09-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+701,2011-09-01,218.0,646,{'charge_slug': '54-retail-theft'},retail theft,864.0
+702,2011-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+703,2011-09-01,90.0,244,{'charge_slug': '58-theft-from-building'},theft from building,334.0
+704,2011-09-01,0.0,56,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,56.0
+705,2011-10-01,0.0,68,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,68.0
+706,2011-10-01,60.0,224,{'charge_slug': '58-theft-from-building'},theft from building,284.0
+707,2011-10-01,206.0,600,{'charge_slug': '54-retail-theft'},retail theft,806.0
+708,2011-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+709,2011-10-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+710,2011-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+711,2011-11-01,75.0,206,{'charge_slug': '58-theft-from-building'},theft from building,281.0
+712,2011-11-01,0.0,49,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,49.0
+713,2011-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+714,2011-11-01,212.0,605,{'charge_slug': '54-retail-theft'},retail theft,817.0
+715,2011-12-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+716,2011-12-01,232.0,758,{'charge_slug': '54-retail-theft'},retail theft,990.0
+717,2011-12-01,1.0,54,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,55.0
+718,2011-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+719,2011-12-01,84.0,229,{'charge_slug': '58-theft-from-building'},theft from building,313.0
+720,2012-01-01,78.0,201,{'charge_slug': '58-theft-from-building'},theft from building,279.0
+721,2012-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+722,2012-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+723,2012-01-01,1.0,49,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,50.0
+724,2012-01-01,227.0,618,{'charge_slug': '54-retail-theft'},retail theft,845.0
+725,2012-02-01,209.0,504,{'charge_slug': '54-retail-theft'},retail theft,713.0
+726,2012-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+727,2012-02-01,0.0,50,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,50.0
+728,2012-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+729,2012-02-01,83.0,172,{'charge_slug': '58-theft-from-building'},theft from building,255.0
+730,2012-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+731,2012-03-01,68.0,211,{'charge_slug': '58-theft-from-building'},theft from building,279.0
+732,2012-03-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+733,2012-03-01,0.0,27,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,27.0
+734,2012-03-01,215.0,601,{'charge_slug': '54-retail-theft'},retail theft,816.0
+735,2012-04-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+736,2012-04-01,213.0,593,{'charge_slug': '54-retail-theft'},retail theft,806.0
+737,2012-04-01,0.0,57,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,57.0
+738,2012-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+739,2012-04-01,87.0,202,{'charge_slug': '58-theft-from-building'},theft from building,289.0
+740,2012-05-01,95.0,229,{'charge_slug': '58-theft-from-building'},theft from building,324.0
+741,2012-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+742,2012-05-01,1.0,46,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,47.0
+743,2012-05-01,208.0,573,{'charge_slug': '54-retail-theft'},retail theft,781.0
+744,2012-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+745,2012-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+746,2012-06-01,1.0,43,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,44.0
+747,2012-06-01,78.0,249,{'charge_slug': '58-theft-from-building'},theft from building,327.0
+748,2012-06-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+749,2012-06-01,226.0,566,{'charge_slug': '54-retail-theft'},retail theft,792.0
+750,2012-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+751,2012-07-01,191.0,612,{'charge_slug': '54-retail-theft'},retail theft,803.0
+752,2012-07-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+753,2012-07-01,67.0,230,{'charge_slug': '58-theft-from-building'},theft from building,297.0
+754,2012-07-01,0.0,43,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,43.0
+755,2012-08-01,98.0,287,{'charge_slug': '58-theft-from-building'},theft from building,385.0
+756,2012-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+757,2012-08-01,218.0,681,{'charge_slug': '54-retail-theft'},retail theft,899.0
+758,2012-08-01,1.0,71,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,72.0
+759,2012-08-01,7.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,9.0
+760,2012-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+761,2012-09-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+762,2012-09-01,101.0,243,{'charge_slug': '58-theft-from-building'},theft from building,344.0
+763,2012-09-01,207.0,587,{'charge_slug': '54-retail-theft'},retail theft,794.0
+764,2012-09-01,1.0,55,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,56.0
+765,2012-10-01,120.0,243,{'charge_slug': '58-theft-from-building'},theft from building,363.0
+766,2012-10-01,0.0,56,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,56.0
+767,2012-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+768,2012-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+769,2012-10-01,254.0,622,{'charge_slug': '54-retail-theft'},retail theft,876.0
+770,2012-11-01,243.0,569,{'charge_slug': '54-retail-theft'},retail theft,812.0
+771,2012-11-01,0.0,52,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,52.0
+772,2012-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+773,2012-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+774,2012-11-01,76.0,189,{'charge_slug': '58-theft-from-building'},theft from building,265.0
+775,2012-12-01,263.0,639,{'charge_slug': '54-retail-theft'},retail theft,902.0
+776,2012-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+777,2012-12-01,110.0,237,{'charge_slug': '58-theft-from-building'},theft from building,347.0
+778,2012-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+779,2012-12-01,0.0,57,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,57.0
+780,2013-01-01,95.0,206,{'charge_slug': '58-theft-from-building'},theft from building,301.0
+781,2013-01-01,0.0,37,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,37.0
+782,2013-01-01,278.0,651,{'charge_slug': '54-retail-theft'},retail theft,929.0
+783,2013-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+784,2013-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+785,2013-02-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+786,2013-02-01,235.0,444,{'charge_slug': '54-retail-theft'},retail theft,679.0
+787,2013-02-01,0.0,42,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,42.0
+788,2013-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+789,2013-02-01,69.0,178,{'charge_slug': '58-theft-from-building'},theft from building,247.0
+790,2013-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+791,2013-03-01,234.0,477,{'charge_slug': '54-retail-theft'},retail theft,711.0
+792,2013-03-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+793,2013-03-01,98.0,178,{'charge_slug': '58-theft-from-building'},theft from building,276.0
+794,2013-03-01,0.0,33,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,33.0
+795,2013-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+796,2013-04-01,0.0,47,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,47.0
+797,2013-04-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+798,2013-04-01,247.0,509,{'charge_slug': '54-retail-theft'},retail theft,756.0
+799,2013-04-01,111.0,201,{'charge_slug': '58-theft-from-building'},theft from building,312.0
+800,2013-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+801,2013-05-01,289.0,528,{'charge_slug': '54-retail-theft'},retail theft,817.0
+802,2013-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+803,2013-05-01,0.0,57,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,57.0
+804,2013-05-01,87.0,211,{'charge_slug': '58-theft-from-building'},theft from building,298.0
+805,2013-06-01,0.0,47,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,47.0
+806,2013-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+807,2013-06-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+808,2013-06-01,89.0,204,{'charge_slug': '58-theft-from-building'},theft from building,293.0
+809,2013-06-01,297.0,520,{'charge_slug': '54-retail-theft'},retail theft,817.0
+810,2013-07-01,137.0,207,{'charge_slug': '58-theft-from-building'},theft from building,344.0
+811,2013-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+812,2013-07-01,307.0,592,{'charge_slug': '54-retail-theft'},retail theft,899.0
+813,2013-07-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+814,2013-07-01,0.0,71,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,71.0
+815,2013-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+816,2013-08-01,0.0,56,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,56.0
+817,2013-08-01,108.0,224,{'charge_slug': '58-theft-from-building'},theft from building,332.0
+818,2013-08-01,284.0,569,{'charge_slug': '54-retail-theft'},retail theft,853.0
+819,2013-08-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+820,2013-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+821,2013-09-01,276.0,474,{'charge_slug': '54-retail-theft'},retail theft,750.0
+822,2013-09-01,0.0,62,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,62.0
+823,2013-09-01,83.0,248,{'charge_slug': '58-theft-from-building'},theft from building,331.0
+824,2013-09-01,2.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+825,2013-10-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+826,2013-10-01,2.0,63,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,65.0
+827,2013-10-01,280.0,578,{'charge_slug': '54-retail-theft'},retail theft,858.0
+828,2013-10-01,119.0,210,{'charge_slug': '58-theft-from-building'},theft from building,329.0
+829,2013-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+830,2013-11-01,129.0,162,{'charge_slug': '58-theft-from-building'},theft from building,291.0
+831,2013-11-01,248.0,449,{'charge_slug': '54-retail-theft'},retail theft,697.0
+832,2013-11-01,0.0,49,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,49.0
+833,2013-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+834,2013-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+835,2013-12-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+836,2013-12-01,285.0,601,{'charge_slug': '54-retail-theft'},retail theft,886.0
+837,2013-12-01,0.0,40,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,40.0
+838,2013-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+839,2013-12-01,100.0,190,{'charge_slug': '58-theft-from-building'},theft from building,290.0
+840,2014-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+841,2014-01-01,306.0,485,{'charge_slug': '54-retail-theft'},retail theft,791.0
+842,2014-01-01,0.0,52,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,52.0
+843,2014-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+844,2014-01-01,95.0,151,{'charge_slug': '58-theft-from-building'},theft from building,246.0
+845,2014-02-01,206.0,385,{'charge_slug': '54-retail-theft'},retail theft,591.0
+846,2014-02-01,0.0,31,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,31.0
+847,2014-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+848,2014-02-01,73.0,141,{'charge_slug': '58-theft-from-building'},theft from building,214.0
+849,2014-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+850,2014-03-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+851,2014-03-01,269.0,423,{'charge_slug': '54-retail-theft'},retail theft,692.0
+852,2014-03-01,0.0,51,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,51.0
+853,2014-03-01,106.0,152,{'charge_slug': '58-theft-from-building'},theft from building,258.0
+854,2014-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+855,2014-04-01,103.0,184,{'charge_slug': '58-theft-from-building'},theft from building,287.0
+856,2014-04-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+857,2014-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+858,2014-04-01,0.0,53,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,53.0
+859,2014-04-01,290.0,481,{'charge_slug': '54-retail-theft'},retail theft,771.0
+860,2014-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+861,2014-05-01,97.0,165,{'charge_slug': '58-theft-from-building'},theft from building,262.0
+862,2014-05-01,0.0,38,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,38.0
+863,2014-05-01,274.0,503,{'charge_slug': '54-retail-theft'},retail theft,777.0
+864,2014-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+865,2014-06-01,83.0,203,{'charge_slug': '58-theft-from-building'},theft from building,286.0
+866,2014-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+867,2014-06-01,289.0,520,{'charge_slug': '54-retail-theft'},retail theft,809.0
+868,2014-06-01,2.0,49,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,51.0
+869,2014-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+870,2014-07-01,103.0,201,{'charge_slug': '58-theft-from-building'},theft from building,304.0
+871,2014-07-01,0.0,61,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,61.0
+872,2014-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+873,2014-07-01,257.0,587,{'charge_slug': '54-retail-theft'},retail theft,844.0
+874,2014-07-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+875,2014-08-01,125.0,214,{'charge_slug': '58-theft-from-building'},theft from building,339.0
+876,2014-08-01,1.0,49,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,50.0
+877,2014-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+878,2014-08-01,3.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+879,2014-08-01,262.0,555,{'charge_slug': '54-retail-theft'},retail theft,817.0
+880,2014-09-01,276.0,610,{'charge_slug': '54-retail-theft'},retail theft,886.0
+881,2014-09-01,121.0,203,{'charge_slug': '58-theft-from-building'},theft from building,324.0
+882,2014-09-01,0.0,59,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,59.0
+883,2014-09-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+884,2014-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+885,2014-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+886,2014-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+887,2014-10-01,282.0,523,{'charge_slug': '54-retail-theft'},retail theft,805.0
+888,2014-10-01,103.0,180,{'charge_slug': '58-theft-from-building'},theft from building,283.0
+889,2014-10-01,0.0,71,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,71.0
+890,2014-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+891,2014-11-01,0.0,38,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,38.0
+892,2014-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+893,2014-11-01,256.0,456,{'charge_slug': '54-retail-theft'},retail theft,712.0
+894,2014-11-01,70.0,149,{'charge_slug': '58-theft-from-building'},theft from building,219.0
+895,2014-12-01,97.0,178,{'charge_slug': '58-theft-from-building'},theft from building,275.0
+896,2014-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+897,2014-12-01,282.0,630,{'charge_slug': '54-retail-theft'},retail theft,912.0
+898,2014-12-01,0.0,55,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,55.0
+899,2014-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+900,2015-01-01,98.0,142,{'charge_slug': '58-theft-from-building'},theft from building,240.0
+901,2015-01-01,0.0,37,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,37.0
+902,2015-01-01,282.0,576,{'charge_slug': '54-retail-theft'},retail theft,858.0
+903,2015-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+904,2015-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+905,2015-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+906,2015-02-01,272.0,363,{'charge_slug': '54-retail-theft'},retail theft,635.0
+907,2015-02-01,60.0,134,{'charge_slug': '58-theft-from-building'},theft from building,194.0
+908,2015-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+909,2015-02-01,0.0,34,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,34.0
+910,2015-03-01,95.0,126,{'charge_slug': '58-theft-from-building'},theft from building,221.0
+911,2015-03-01,253.0,493,{'charge_slug': '54-retail-theft'},retail theft,746.0
+912,2015-03-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+913,2015-03-01,0.0,28,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,28.0
+914,2015-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+915,2015-04-01,0.0,2,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,2.0
+916,2015-04-01,61.0,139,{'charge_slug': '58-theft-from-building'},theft from building,200.0
+917,2015-04-01,255.0,456,{'charge_slug': '54-retail-theft'},retail theft,711.0
+918,2015-04-01,0.0,36,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,36.0
+919,2015-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+920,2015-05-01,223.0,427,{'charge_slug': '54-retail-theft'},retail theft,650.0
+921,2015-05-01,0.0,39,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,39.0
+922,2015-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+923,2015-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+924,2015-05-01,84.0,113,{'charge_slug': '58-theft-from-building'},theft from building,197.0
+925,2015-06-01,1.0,37,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,38.0
+926,2015-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+927,2015-06-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+928,2015-06-01,237.0,531,{'charge_slug': '54-retail-theft'},retail theft,768.0
+929,2015-06-01,77.0,170,{'charge_slug': '58-theft-from-building'},theft from building,247.0
+930,2015-07-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+931,2015-07-01,88.0,163,{'charge_slug': '58-theft-from-building'},theft from building,251.0
+932,2015-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+933,2015-07-01,0.0,54,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,54.0
+934,2015-07-01,258.0,538,{'charge_slug': '54-retail-theft'},retail theft,796.0
+935,2015-08-01,258.0,499,{'charge_slug': '54-retail-theft'},retail theft,757.0
+936,2015-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+937,2015-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+938,2015-08-01,1.0,52,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,53.0
+939,2015-08-01,102.0,172,{'charge_slug': '58-theft-from-building'},theft from building,274.0
+940,2015-09-01,,1,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+941,2015-09-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+942,2015-09-01,1.0,46,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,47.0
+943,2015-09-01,268.0,448,{'charge_slug': '54-retail-theft'},retail theft,716.0
+944,2015-09-01,81.0,158,{'charge_slug': '58-theft-from-building'},theft from building,239.0
+945,2015-10-01,77.0,162,{'charge_slug': '58-theft-from-building'},theft from building,239.0
+946,2015-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+947,2015-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+948,2015-10-01,247.0,570,{'charge_slug': '54-retail-theft'},retail theft,817.0
+949,2015-10-01,1.0,37,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,38.0
+950,2015-11-01,0.0,38,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,38.0
+951,2015-11-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+952,2015-11-01,79.0,119,{'charge_slug': '58-theft-from-building'},theft from building,198.0
+953,2015-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+954,2015-11-01,227.0,469,{'charge_slug': '54-retail-theft'},retail theft,696.0
+955,2015-12-01,84.0,113,{'charge_slug': '58-theft-from-building'},theft from building,197.0
+956,2015-12-01,284.0,635,{'charge_slug': '54-retail-theft'},retail theft,919.0
+957,2015-12-01,1.0,32,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,33.0
+958,2015-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+959,2015-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+960,2016-01-01,1.0,17,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,18.0
+961,2016-01-01,236.0,524,{'charge_slug': '54-retail-theft'},retail theft,760.0
+962,2016-01-01,70.0,129,{'charge_slug': '58-theft-from-building'},theft from building,199.0
+963,2016-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+964,2016-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+965,2016-02-01,67.0,127,{'charge_slug': '58-theft-from-building'},theft from building,194.0
+966,2016-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+967,2016-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+968,2016-02-01,256.0,506,{'charge_slug': '54-retail-theft'},retail theft,762.0
+969,2016-02-01,0.0,32,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,32.0
+970,2016-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+971,2016-03-01,0.0,28,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,28.0
+972,2016-03-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+973,2016-03-01,72.0,104,{'charge_slug': '58-theft-from-building'},theft from building,176.0
+974,2016-03-01,229.0,547,{'charge_slug': '54-retail-theft'},retail theft,776.0
+975,2016-04-01,227.0,516,{'charge_slug': '54-retail-theft'},retail theft,743.0
+976,2016-04-01,76.0,101,{'charge_slug': '58-theft-from-building'},theft from building,177.0
+977,2016-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+978,2016-04-01,1.0,19,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,20.0
+979,2016-04-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+980,2016-05-01,258.0,539,{'charge_slug': '54-retail-theft'},retail theft,797.0
+981,2016-05-01,81.0,127,{'charge_slug': '58-theft-from-building'},theft from building,208.0
+982,2016-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+983,2016-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+984,2016-05-01,1.0,30,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,31.0
+985,2016-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+986,2016-06-01,74.0,135,{'charge_slug': '58-theft-from-building'},theft from building,209.0
+987,2016-06-01,262.0,585,{'charge_slug': '54-retail-theft'},retail theft,847.0
+988,2016-06-01,0.0,34,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,34.0
+989,2016-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+990,2016-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+991,2016-07-01,77.0,116,{'charge_slug': '58-theft-from-building'},theft from building,193.0
+992,2016-07-01,219.0,414,{'charge_slug': '54-retail-theft'},retail theft,633.0
+993,2016-07-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+994,2016-07-01,0.0,29,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,29.0
+995,2016-08-01,0.0,30,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,30.0
+996,2016-08-01,0.0,3,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,3.0
+997,2016-08-01,219.0,561,{'charge_slug': '54-retail-theft'},retail theft,780.0
+998,2016-08-01,84.0,165,{'charge_slug': '58-theft-from-building'},theft from building,249.0
+999,2016-08-01,,1,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1000,2016-09-01,220.0,508,{'charge_slug': '54-retail-theft'},retail theft,728.0
+1001,2016-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1002,2016-09-01,85.0,123,{'charge_slug': '58-theft-from-building'},theft from building,208.0
+1003,2016-09-01,0.0,21,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,21.0
+1004,2016-09-01,1.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+1005,2016-10-01,220.0,523,{'charge_slug': '54-retail-theft'},retail theft,743.0
+1006,2016-10-01,81.0,148,{'charge_slug': '58-theft-from-building'},theft from building,229.0
+1007,2016-10-01,2.0,32,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,34.0
+1008,2016-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1009,2016-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1010,2016-11-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+1011,2016-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1012,2016-11-01,200.0,575,{'charge_slug': '54-retail-theft'},retail theft,775.0
+1013,2016-11-01,0.0,21,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,21.0
+1014,2016-11-01,68.0,139,{'charge_slug': '58-theft-from-building'},theft from building,207.0
+1015,2016-12-01,172.0,719,{'charge_slug': '54-retail-theft'},retail theft,891.0
+1016,2016-12-01,0.0,15,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,15.0
+1017,2016-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1018,2016-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1019,2016-12-01,79.0,148,{'charge_slug': '58-theft-from-building'},theft from building,227.0
+1020,2017-01-01,77.0,689,{'charge_slug': '54-retail-theft'},retail theft,766.0
+1021,2017-01-01,0.0,27,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,27.0
+1022,2017-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1023,2017-01-01,67.0,132,{'charge_slug': '58-theft-from-building'},theft from building,199.0
+1024,2017-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1025,2017-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1026,2017-02-01,0.0,14,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,14.0
+1027,2017-02-01,97.0,526,{'charge_slug': '54-retail-theft'},retail theft,623.0
+1028,2017-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1029,2017-02-01,66.0,120,{'charge_slug': '58-theft-from-building'},theft from building,186.0
+1030,2017-03-01,1.0,11,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,12.0
+1031,2017-03-01,71.0,125,{'charge_slug': '58-theft-from-building'},theft from building,196.0
+1032,2017-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1033,2017-03-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+1034,2017-03-01,78.0,631,{'charge_slug': '54-retail-theft'},retail theft,709.0
+1035,2017-04-01,62.0,105,{'charge_slug': '58-theft-from-building'},theft from building,167.0
+1036,2017-04-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1037,2017-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1038,2017-04-01,78.0,585,{'charge_slug': '54-retail-theft'},retail theft,663.0
+1039,2017-04-01,0.0,17,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,17.0
+1040,2017-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1041,2017-05-01,0.0,22,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,22.0
+1042,2017-05-01,66.0,672,{'charge_slug': '54-retail-theft'},retail theft,738.0
+1043,2017-05-01,55.0,121,{'charge_slug': '58-theft-from-building'},theft from building,176.0
+1044,2017-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1045,2017-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1046,2017-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1047,2017-06-01,56.0,686,{'charge_slug': '54-retail-theft'},retail theft,742.0
+1048,2017-06-01,76.0,133,{'charge_slug': '58-theft-from-building'},theft from building,209.0
+1049,2017-06-01,1.0,34,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,35.0
+1050,2017-07-01,64.0,140,{'charge_slug': '58-theft-from-building'},theft from building,204.0
+1051,2017-07-01,0.0,23,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,23.0
+1052,2017-07-01,80.0,640,{'charge_slug': '54-retail-theft'},retail theft,720.0
+1053,2017-07-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+1054,2017-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1055,2017-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1056,2017-08-01,74.0,179,{'charge_slug': '58-theft-from-building'},theft from building,253.0
+1057,2017-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1058,2017-08-01,62.0,725,{'charge_slug': '54-retail-theft'},retail theft,787.0
+1059,2017-08-01,1.0,36,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,37.0
+1060,2017-09-01,0.0,22,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,22.0
+1061,2017-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1062,2017-09-01,62.0,667,{'charge_slug': '54-retail-theft'},retail theft,729.0
+1063,2017-09-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1064,2017-09-01,55.0,125,{'charge_slug': '58-theft-from-building'},theft from building,180.0
+1065,2017-10-01,86.0,110,{'charge_slug': '58-theft-from-building'},theft from building,196.0
+1066,2017-10-01,51.0,617,{'charge_slug': '54-retail-theft'},retail theft,668.0
+1067,2017-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1068,2017-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1069,2017-10-01,0.0,25,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,25.0
+1070,2017-11-01,0.0,22,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,22.0
+1071,2017-11-01,60.0,659,{'charge_slug': '54-retail-theft'},retail theft,719.0
+1072,2017-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1073,2017-11-01,64.0,142,{'charge_slug': '58-theft-from-building'},theft from building,206.0
+1074,2017-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1075,2017-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1076,2017-12-01,62.0,133,{'charge_slug': '58-theft-from-building'},theft from building,195.0
+1077,2017-12-01,0.0,24,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,24.0
+1078,2017-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1079,2017-12-01,58.0,649,{'charge_slug': '54-retail-theft'},retail theft,707.0
+1080,2018-01-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1081,2018-01-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1082,2018-01-01,51.0,117,{'charge_slug': '58-theft-from-building'},theft from building,168.0
+1083,2018-01-01,0.0,29,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,29.0
+1084,2018-01-01,83.0,759,{'charge_slug': '54-retail-theft'},retail theft,842.0
+1085,2018-02-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1086,2018-02-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1087,2018-02-01,66.0,88,{'charge_slug': '58-theft-from-building'},theft from building,154.0
+1088,2018-02-01,60.0,593,{'charge_slug': '54-retail-theft'},retail theft,653.0
+1089,2018-02-01,0.0,20,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,20.0
+1090,2018-03-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1091,2018-03-01,0.0,21,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,21.0
+1092,2018-03-01,0.0,8,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,8.0
+1093,2018-03-01,80.0,669,{'charge_slug': '54-retail-theft'},retail theft,749.0
+1094,2018-03-01,53.0,128,{'charge_slug': '58-theft-from-building'},theft from building,181.0
+1095,2018-04-01,62.0,110,{'charge_slug': '58-theft-from-building'},theft from building,172.0
+1096,2018-04-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1097,2018-04-01,0.0,16,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,16.0
+1098,2018-04-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1099,2018-04-01,90.0,616,{'charge_slug': '54-retail-theft'},retail theft,706.0
+1100,2018-05-01,75.0,668,{'charge_slug': '54-retail-theft'},retail theft,743.0
+1101,2018-05-01,50.0,122,{'charge_slug': '58-theft-from-building'},theft from building,172.0
+1102,2018-05-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1103,2018-05-01,0.0,16,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,16.0
+1104,2018-05-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1105,2018-06-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1106,2018-06-01,0.0,27,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,27.0
+1107,2018-06-01,62.0,131,{'charge_slug': '58-theft-from-building'},theft from building,193.0
+1108,2018-06-01,72.0,622,{'charge_slug': '54-retail-theft'},retail theft,694.0
+1109,2018-06-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1110,2018-07-01,49.0,655,{'charge_slug': '54-retail-theft'},retail theft,704.0
+1111,2018-07-01,55.0,135,{'charge_slug': '58-theft-from-building'},theft from building,190.0
+1112,2018-07-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1113,2018-07-01,0.0,1,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,1.0
+1114,2018-07-01,0.0,69,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,69.0
+1115,2018-08-01,66.0,116,{'charge_slug': '58-theft-from-building'},theft from building,182.0
+1116,2018-08-01,0.0,90,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,90.0
+1117,2018-08-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1118,2018-08-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1119,2018-08-01,87.0,652,{'charge_slug': '54-retail-theft'},retail theft,739.0
+1120,2018-09-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1121,2018-09-01,62.0,591,{'charge_slug': '54-retail-theft'},retail theft,653.0
+1122,2018-09-01,76.0,149,{'charge_slug': '58-theft-from-building'},theft from building,225.0
+1123,2018-09-01,0.0,69,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,69.0
+1124,2018-09-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1125,2018-10-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1126,2018-10-01,0.0,40,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,40.0
+1127,2018-10-01,76.0,693,{'charge_slug': '54-retail-theft'},retail theft,769.0
+1128,2018-10-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1129,2018-10-01,48.0,123,{'charge_slug': '58-theft-from-building'},theft from building,171.0
+1130,2018-11-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1131,2018-11-01,47.0,113,{'charge_slug': '58-theft-from-building'},theft from building,160.0
+1132,2018-11-01,60.0,553,{'charge_slug': '54-retail-theft'},retail theft,613.0
+1133,2018-11-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1134,2018-11-01,0.0,29,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,29.0
+1135,2018-12-01,,0,{'charge_slug': '55-delivery-container-theft'},delivery container theft,
+1136,2018-12-01,69.0,430,{'charge_slug': '54-retail-theft'},retail theft,499.0
+1137,2018-12-01,0.0,0,{'charge_slug': '59-theft-from-coin-operated-machine-or-device'},theft from coin operated machine or device,0.0
+1138,2018-12-01,48.0,81,{'charge_slug': '58-theft-from-building'},theft from building,129.0
+1139,2018-12-01,0.0,18,{'charge_slug': '50-theft-of-lost-or-mislaid-property'},theft of lost or mislaid property,18.0
