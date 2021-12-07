@@ -1,0 +1,7 @@
+Model,Offense,Posterior Prob of Causal Effect,Average Absolute Effect ,Cumulative Absolute Effect ,AE Average Lower,AE Average Upper,AE Cumulative Lower,AE Cumulative Upper,Relative Effect,RE Average Lower,RE Average Upper
+Univariate,Overall,100,-53.32,-1332.94,-81.3,-24.87,-2032.44,-621.64,-6.96%,-10.61%,-3.24%
+Univariate,Felony,100,-178.16,-4454.08,-188.85,-167.48,-4721.28,-4186.96,-70.54%,-74.77%,-66.31%
+Univariate,Misdemeanor,100,125.35,3133.72,96.95,154.17,2423.72,3854.36,24.42%,18.89%,30.04%
+Multivariate,Overall,95.2,-41.81,-1045.17,-81.27,11.03,-2031.81,275.79,-5.54%,-10.77%,1.46%
+Multivariate,Felony,100,-169.61,-4240.33,-188.32,-144.98,-4708.04,-3624.44,-69.51%,-77.18%,-59.41%
+Multivariate,Misdemeanor,100,131.02,3275.43,95.36,173.67,2383.99,4341.77,25.81%,18.79%,34.21%
